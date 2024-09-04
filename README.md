@@ -54,13 +54,13 @@ To set up the BMI Calculator app locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/bmi-calculator.git
+   git clone https://github.com/shaharyar4t4/bmi-calculator.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd bmi-calculator
+   cd BMI-Calculator
    ```
 
 3. **Install the required dependencies:**
@@ -104,7 +104,7 @@ The app takes the user's input for weight and height, performs the calculation, 
 
 ## Screenshots
 
-![BMI Calculator Screenshot](link-to-screenshot)
+![BMI Calculator Screenshot](BMI-Calculator/blob/master/ss.jpg)
 
 Include actual screenshots of your app to give potential users an idea of what to expect.
 
@@ -128,9 +128,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or suggestions, please feel free to contact me:
 
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Email**: shaharyarali209@gmail.com
+- **GitHub**: [your-username](https://github.com/shaharyar4t4)
 
 ---
 
-Feel free to modify this content according to your needs. Replace placeholders like `your-username` and `your-email@example.com` with your actual GitHub username and email address. Also, ensure to add a valid screenshot link to showcase your app's user interface.
+Feel free to modify this content according to your needs. Replace placeholders like `shaharyar4t4` and `shaharyarali209@gmail.com` with your actual GitHub username and email address. Also, ensure to add a valid screenshot link to showcase your app's user interface.
