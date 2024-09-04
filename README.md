@@ -104,7 +104,7 @@ The app takes the user's input for weight and height, performs the calculation, 
 
 ## Screenshots
 
-![BMI Calculator Screenshot](BMI-Calculator/blob/master/ss.jpg)
+![BMI Calculator Screenshot](https://github.com/shaharyar4t4/BMI-Calculator/blob/master/ss.jpg)
 
 Include actual screenshots of your app to give potential users an idea of what to expect.
 
@@ -129,7 +129,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or suggestions, please feel free to contact me:
 
 - **Email**: shaharyarali209@gmail.com
-- **GitHub**: [your-username](https://github.com/shaharyar4t4)
+- **GitHub**: [shaharyar4t4](https://github.com/shaharyar4t4)
 
 ---
 
